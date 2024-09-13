@@ -34,9 +34,12 @@ Runtime: Java Virtual Machine (JVM) 🚀
 
 📝 Usage Instructions
 
-Clone this repository:
+ 1. Clone this repository:
 
-  git clone https://github.com/DeepakGowda-Official/Student-DBMS.git
+   git clone https://github.com/DeepakGowda-Official/Student-DBMS.git
+
+ 2. Open the project in VS Code or any Java IDE.
+ 3. Run Main.java to start the terminal-based student management system.
 
 
 
