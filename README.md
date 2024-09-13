@@ -10,9 +10,13 @@ Welcome to the Student Record Management System, a simple Java project designed 
 
 💡 OOP Concepts Covered
 Inheritance 📜: An abstract Person class is inherited by the Student class.
+
 Polymorphism 🔄: Method overriding demonstrated with displayInfo() in the Student class.
+
 Abstraction 🔒: The RecordManager interface manages records without revealing implementation details.
+
 Encapsulation 🔐: The Student and Record classes encapsulate data and behavior.
+
 Interfaces 🤝: The RecordManager interface sets a contract for classes like StudentRecordManagement.
 
 🛠️ Technology Stack
@@ -25,4 +29,5 @@ Clone this repository:
   git clone https://github.com/DeepakGowda-Official/Student-DBMS.git
 
 📝 Sample Output:
+
   ![image](https://github.com/user-attachments/assets/8ac3a4a5-29f6-453e-bb6e-02f13dff569d)
