@@ -22,11 +22,13 @@ Welcome to the Student Record Management System, a simple Java project designed 
  5. Interfaces 🤝: The RecordManager interface sets a contract for classes like StudentRecordManagement.
 
 🛠️ Technology Stack
+
 Language: Java ☕
 IDE: Visual Studio Code 💻
 Runtime: Java Virtual Machine (JVM) 🚀
 
 📝 Usage Instructions
+
 Clone this repository:
   git clone https://github.com/DeepakGowda-Official/Student-DBMS.git
 
