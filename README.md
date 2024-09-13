@@ -38,7 +38,7 @@ Runtime: Java Virtual Machine (JVM) 🚀
 
  1. To clone this repository to your local machine, run the following command:
 
-```sh
+sh
 
      git clone https://github.com/DeepakGowda-Official/Student-DBMS.git
 
