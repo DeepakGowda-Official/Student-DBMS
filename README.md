@@ -2,12 +2,14 @@
 
 Welcome to the Student Record Management System, a simple Java project designed to demonstrate the core concepts of Object-Oriented Programming (OOP). This project allows you to manage student records using features like add, delete, update, search, and display, all while showcasing OOP principles in action.
 
+
 🚀 Features
  1. Add new student records 🆕
  2. Delete existing records 🗑️
  3. Update student information 📝
  4. Search for a student record 🔍
  5. Display all student records 🧑‍🎓
+
 
 💡 OOP Concepts Covered
 
@@ -24,13 +26,19 @@ Welcome to the Student Record Management System, a simple Java project designed 
 🛠️ Technology Stack
 
 Language: Java ☕
+
 IDE: Visual Studio Code 💻
+
 Runtime: Java Virtual Machine (JVM) 🚀
+
 
 📝 Usage Instructions
 
 Clone this repository:
+
   git clone https://github.com/DeepakGowda-Official/Student-DBMS.git
+
+
 
 📝 Sample Output:
 
