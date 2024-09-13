@@ -1,4 +1,5 @@
 🎓 Student Record Management System 📚
+
 Welcome to the Student Record Management System, a simple Java project designed to demonstrate the core concepts of Object-Oriented Programming (OOP). This project allows you to manage student records using features like add, delete, update, search, and display, all while showcasing OOP principles in action.
 
 🚀 Features
@@ -9,15 +10,16 @@ Welcome to the Student Record Management System, a simple Java project designed 
  5. Display all student records 🧑‍🎓
 
 💡 OOP Concepts Covered
-Inheritance 📜: An abstract Person class is inherited by the Student class.
 
-Polymorphism 🔄: Method overriding demonstrated with displayInfo() in the Student class.
+ 1. Inheritance 📜: An abstract Person class is inherited by the Student class.
 
-Abstraction 🔒: The RecordManager interface manages records without revealing implementation details.
+ 2. Polymorphism 🔄: Method overriding demonstrated with displayInfo() in the Student class.
 
-Encapsulation 🔐: The Student and Record classes encapsulate data and behavior.
+ 3. Abstraction 🔒: The RecordManager interface manages records without revealing implementation details.
 
-Interfaces 🤝: The RecordManager interface sets a contract for classes like StudentRecordManagement.
+ 4. Encapsulation 🔐: The Student and Record classes encapsulate data and behavior.
+
+ 5. Interfaces 🤝: The RecordManager interface sets a contract for classes like StudentRecordManagement.
 
 🛠️ Technology Stack
 Language: Java ☕
